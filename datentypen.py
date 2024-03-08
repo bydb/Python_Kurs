@@ -10,5 +10,6 @@ print (c)
 print (d)
 print (e)
 print (f)
-print (name)
+print (name)  # gibt den namen aus
+
 
