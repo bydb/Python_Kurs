@@ -10,3 +10,6 @@ print ("deine Mutter heisst", liste[2],Nachname)
 
 
 
+
+
+
