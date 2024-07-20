@@ -1,4 +1,5 @@
 a = "5" #Datentyp String (damit kann man nicht rechnen)
+
 b = "5.8" #Datentyp String (damit kann man nicht rechnen)
 e = 5 # Datentyp Integer (Damit kann man rechnen)
 name = ("Jochen")
