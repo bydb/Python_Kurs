@@ -24,13 +24,14 @@ Jochen Leeder
 3. Führe den Installer aus und folge den Anweisungen.
 ---
 # Dein erstes Python-Programm
-- Öffne einen Texteditor.
+- Öffne einen Texteditor z. B. in macOS den coteditor
 - Schreibe:
  ```python
  print("Hallo Welt!")
  ```
-- Speichere die Datei als `hallo.py`.
-- Führe sie im Terminal mit `python hallo.py` aus.
+- Speichere die Datei als `hallo.py` in ein dafür angelegtes Verzeichnis z. B. Python_Kurs
+- Unter macOS musst du im Terminal zunächst in das Verzeichnis navigieren in der die Datei Python Datei liegt `cd /dein Verzeichnis/`
+- Führe sie im Terminal mit `/usr/local/bin/ python3 hallo.py` aus. 
 ---
 
 # Variablen
