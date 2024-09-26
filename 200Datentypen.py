@@ -1,7 +1,13 @@
 a = "5" #Datentyp String (damit kann man nicht rechnen)
 
+print (a)
+
 b = "5.8" #Datentyp String (damit kann man nicht rechnen)
+
+print (b)
+
 e = 5 # Datentyp Integer (Damit kann man rechnen)
+
 name = ("Jochen")
 
 c = int(a) # jetzt kann man mit c rechnen , da der Datentyp geändert wurde!
